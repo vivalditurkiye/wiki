@@ -1,0 +1,40 @@
+# Project information
+site_name: Vivaldi Wiki
+site_description: A wiki from Sopranos
+site_author: 
+site_url: http://vw-demo.vivalditips.com/en/latest/
+
+# Repository
+repo_name: GitHub
+repo_url: https://github.com/vivalditurkiye/wiki
+remote_branch: master
+
+# Copyright
+copyright: The content of this site is licensed under the GNU GPLv3.
+
+# Documentation and theme
+theme_dir: material
+
+# Options
+extra:
+  font:
+    text: 'Droid Sans'
+    code: 'Droid Sans Mono'
+  logo: images/logo.png
+  author:
+    github: vivalditurkiye
+    twitter: vivaldibrowser
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - smarty
+  - tables
+  - toc:
+      permalink: '⚓'
+
+# Page tree
+# pages:i
+#  - Home: index.md
+
