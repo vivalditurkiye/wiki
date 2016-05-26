@@ -2,7 +2,7 @@
 
 Welcome to the Vivaldi Wiki pages by VivaldiTips. You can find many usefull information about how to use Vivaldi Browser effeciently more. If you want you can also contribute us..
 
-![vivavldi](./images/vivaldi.png)
+![vivavldi](../images/vivaldi.png)
 
 ----------------
 
