@@ -1,8 +1,8 @@
-# HelpGuide for Wiki-VivaldiTips
+# HelpGuide for Vivaldi Wİki pages
 
 ## Overview
 
-The guide aims to help you to understand how you can add contents to this project (Wiki.VivaldiTips) easily.
+The guide aims to help you to understand how you can add contents to this project (Vivaldi Wiki) easily.
 test
 
 ## Project Pages
@@ -83,4 +83,6 @@ This project uses following systems.
 * [Read the Docs](https://readthedocs.org/)
 * [Markdown](http://commonmark.org/)
 
-Documents are builte for every commit in `master` branch. This buid process takes approximately a minute.
+Documents are built for every commit in `master` branch. This build process takes approximately a minute.
+
+_Note: This project is developed by **[VivaldiTips](http://vivalditips.com)** team and contributed by **Sopranos Team**._
