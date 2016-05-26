@@ -10,7 +10,7 @@ Welcome to the Vivaldi Wiki pages by VivaldiTips. You can find many usefull info
 
 Here is the help guide before you start.
 
-## [HelpGuide for Vivaldi Wiki Pages](http://wiki.vivalditips.com/en/latest/help-guide-for-wiki-vivalditips/)
+* [HelpGuide for Vivaldi Wiki Pages](http://wiki.vivalditips.com/en/latest/help-guide-for-wiki-vivalditips/)
 
 
-_Note: This project is developed by VivaldiTips team and contributed by Sopranos Team._
+_Note: This project is developed by **[VivaldiTips](http://vivalditips.com)** team and contributed by **Sopranos Team**._
