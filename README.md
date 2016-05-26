@@ -1,4 +1,4 @@
-# HelpGuide for Vivaldi Wİki pages
+# Help Guide for Vivaldi Wiki pages
 
 ## Overview
 
