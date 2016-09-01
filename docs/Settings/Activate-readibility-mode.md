@@ -4,7 +4,8 @@ Vivaldi comes together wtih **Readibility Mode** which allows users to read easi
 
 When you activate in a tab, you can use it till to disable it.
 
-# How to activate?
+
+## How to activate?
 
 * Open a webpage incluiding some text content you wish to read.
 
