@@ -14,7 +14,7 @@ If you want to add search suggestions to your browser URL search field, you can 
 
 ## Search Engines Suggest URL's
 
-* **Google:** [https://www.google.com/complete/search?client=opera&q=%s](https://www.google.com/complete/search?client=opera&q=%s)
+* **Google:** [https://www.google.com/complete/search?client=firefox&q=%s](https://www.google.com/complete/search?client=firefox&q=%s)
 
 * **Youtube:** [https://www.google.ru/complete/search?hl=ru&ds=yt&output=firefox&q=%s](https://www.google.ru/complete/search?hl=ru&ds=yt&output=firefox&q=%s)
 
