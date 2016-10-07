@@ -1,4 +1,4 @@
-* Start Vivaldi with –remote-debugging-port=9222 parameter
+* Start Vivaldi with `--remote-debugging-port=9222` parameter
 * Open http://localhost:9222 in Vivaldi
 * Choose the previously opened tab to inspect
 * Tile devtools tab with tab to inspect together
