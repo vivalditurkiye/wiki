@@ -6,7 +6,7 @@ Welcome to the Vivaldi Wiki pages by VivaldiTips. You can find many usefull info
 
 ----------------
 
-## Help
+## Contribution Guide
 
 Here is the help guide before you start.
 
