@@ -1,36 +1,16 @@
 # How do I set up Vivaldi email account in a mail client?
 
-In your desktop or mobile email client create a new IMAP mailbox account using following settings:
+In your desktop or mobile email client create a new IMAP, or POP3 mailbox account using the following settings:
 
-## IMAP Server Settings
+To receive e-mails, choose one the servers, below (Incoming server):
+POP3:	pop3.vivaldi.net, Port: 110, Authentication method: normal password, Connection security: STARTTLS
+IMAP:	imap.vivaldi.net, Port: 143, Authentication method: normal password, Connection security: STARTTLS
 
-**Server Type:** IMAP Mail Server
+...or, instead, one of the two, below:
+POP3s:	pop3.vivaldi.net, Port: 995, Authentication method: normal password, Connection security: SSL/TLS
+IMAPs:	imap.vivaldi.net, Port: 993, Authentication method: normal password, Connection security: SSL/TLS
 
-**Server Name:** mail.vivaldi.net
+To send e-mails, set the server, below (Outgoing server):
+SMTP:	smtp.vivaldi.net, Port: 587, Authentication method: normal password, Connection security: STARTTLS
 
-**Port:** 993
-
-
-### Security Settings
-
-**Connection security:** SSL/TLS
-
-**Authentication method:** Plain password
-
-## SMTP Settings
-
-**Server Name:** mail.vivaldi.net
-
-**Port:** 465
-
-### Security Settings
-
-**Connection security:** SSL/TLS
-
-**Authentication method:** Password
-
-**Username/Password:** same as IMAP settings
-
---------------------
-
-![OM Accounts View](../images/mail.png)
+https://help.vivaldi.com/article/vivaldi-net-and-its-webmail/
