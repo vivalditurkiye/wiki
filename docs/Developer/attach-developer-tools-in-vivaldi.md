@@ -1,4 +1,8 @@
+## Vivaldi 1.10 +
+1. Open [vivaldi://experiments](vivaldi://experiments)
+2. Enable Allow for docking devtool
 
+## < Vivaldi 1.10
 1. Start Vivaldi with `--remote-debugging-port=9222` parameter
 2. Open [http://localhost:9222](http://localhost:9222) in Vivaldi
 3. Choose the previously opened tab to inspect
