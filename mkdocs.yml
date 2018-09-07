@@ -14,7 +14,8 @@ copyright: The content of this site is licensed under the GNU GPLv3.
 
 # Documentation and theme
 theme:
-  name: 'material'
+  name: null
+  custom_dir: 'material'
   palette:
     primary: 'teal'
     accent: 'teal'
@@ -28,6 +29,8 @@ theme:
     twitter: vivaldibrowser
   search:
     language: 'en'
+  language: 'en'
+  feature:
 extra:
   search:
     tokenizer: '[\s\-\.]+'
