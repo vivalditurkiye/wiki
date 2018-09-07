@@ -13,17 +13,24 @@ remote_branch: master
 copyright: The content of this site is licensed under the GNU GPLv3.
 
 # Documentation and theme
-theme_dir: material
-
-# Options
-extra:
+theme:
+  name: 'material'
+  palette:
+    primary: 'teal'
+    accent: 'teal'
   font:
     text: 'Droid Sans'
     code: 'Droid Sans Mono'
   logo: images/logo.png
+  favicon: images/logo.png
   author:
     github: vivalditurkiye
     twitter: vivaldibrowser
+  search:
+    language: 'en'
+extra:
+  search:
+    tokenizer: '[\s\-\.]+'
 
 # Extensions
 markdown_extensions:
@@ -33,8 +40,17 @@ markdown_extensions:
   - tables
   - toc:
       permalink: '⚓'
-
-# Page tree
-# pages:i
-#  - Home: index.md
-
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
